@@ -1,0 +1,2 @@
+include ':app', ':thread', ':data_thread', ':looper', ':AsyncTask', ':LoaderManager', ':service'
+rootProject.name='My Application'
